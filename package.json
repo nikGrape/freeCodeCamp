@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Nikolai Vinogradov",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -8,8 +9,18 @@
 	"scripts": {
 		"start": "node server.js"
 	},
+	"engines": {
+		"node": "17.2.0"
+	},
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+	"description": "This example is so cool.",
+
+	"keywords": [
+	  "example",
+	  "heroku"
+	],
+	"license": "MIT"
 }
