@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Nikolai Vinogradov",
 	"version": "1.0.0",
+	"description": "This is a back end learning project on freeCodeCamp",
 	"dependencies": {
 		"express": "^4.17.3"
 	},
@@ -16,7 +17,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"description": "This example is so cool.",
 	"keywords": [
 		"example",
 		"heroku"
