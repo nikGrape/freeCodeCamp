@@ -3,7 +3,7 @@
 	"author": "Nikolai Vinogradov",
 	"version": "1.0.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.17.3"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -17,10 +17,9 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"description": "This example is so cool.",
-
 	"keywords": [
-	  "example",
-	  "heroku"
+		"example",
+		"heroku"
 	],
 	"license": "MIT"
 }
